@@ -1,0 +1,17 @@
+{
+  "name": "react-native-dialog-layer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SNY7/react-native-dialog-layer",
+  "author": "Henry Young",
+  "license": "MIT",
+  "peerDependencies": {
+    "mobx": "^4.2.1",
+    "mobx-react": "^5.1.2",
+    "react": "^16.3.2",
+    "react-native": "^0.55.4"
+  },
+  "dependencies": {
+    "react-native-simple-dialogs": "^0.3.1"
+  }
+}
