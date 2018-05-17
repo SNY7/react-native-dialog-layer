@@ -5,6 +5,13 @@
   "repository": "https://github.com/SNY7/react-native-dialog-layer",
   "author": "Henry Young",
   "license": "MIT",
+  "keywords": [
+    "react-native",
+    "dialog",
+    "confirm",
+    "alert",
+    "mobx"
+  ],
   "peerDependencies": {
     "mobx": "^4.2.1",
     "mobx-react": "^5.1.2",
