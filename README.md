@@ -1,6 +1,6 @@
 # react-native-dialog-layer
 
-[![Download](https://img.shields.io/badge/Download-v1.0.1-ff69b4.svg) ](https://www.npmjs.com/package/react-native-dialog-layer)
+[![Download](https://img.shields.io/badge/Download-v1.0.2-ff69b4.svg) ](https://www.npmjs.com/package/react-native-dialog-layer)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/SNY7/react-native-dialog-layer/pulls)
 
 A easy to use react native dialog layer, with queue support, based on `mobx`, `react-native-simple-dialogs`.
