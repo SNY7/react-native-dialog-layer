@@ -7,7 +7,6 @@ class DialogLayerStore {
   }
   @action shift() {
     this.queue.shift();
-    console.log('queue shift', this.queue.toJS());
   }
   @action add(title, message, buttons) {
     this.queue.push({
@@ -15,7 +14,6 @@ class DialogLayerStore {
       message,
       buttons,
     });
-    console.log('queue push', this.queue.toJS());
   }
 }
 
